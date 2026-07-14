@@ -19,6 +19,12 @@ npm run dev
 
 浏览器打开终端显示的本地地址即可。
 
+## 离线压缩包
+
+[下载版本 2 离线压缩包](https://github.com/huanghao-view/pixel-twin-chronicles/raw/refs/heads/main/downloads/pixel-twin-chronicles-v2-offline.zip)
+
+下载后解压整个压缩包，再按包内的中文使用说明启动。离线版运行后不需要连接互联网。
+
 ## 构建离线版
 
 ```bash
